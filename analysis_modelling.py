@@ -1,10 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-"""
-Converted from Jupyter Notebook: notebook.ipynb
-Conversion Date: 2025-09-09T10:03:04.068Z
-"""
-
 """This notebook explores customer churn prediction using a structured analysis of the dataset. It includes data exploration, 
 feature analysis, and statistical methods to identify key predictors of churn. Following the analysis, various machine learning models 
 are trained and evaluated to predict customer retention."""
