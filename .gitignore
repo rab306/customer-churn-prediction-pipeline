@@ -1,0 +1,17 @@
+# Virtual environment
+churn_venv/
+venv/
+
+# Data directory
+raw_data/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+*.pkl
