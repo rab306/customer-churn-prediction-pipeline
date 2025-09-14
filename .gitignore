@@ -4,6 +4,9 @@ venv/
 
 # Data directory
 raw_data/
+logs/
+results/
+
 
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
