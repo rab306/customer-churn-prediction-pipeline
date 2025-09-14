@@ -54,7 +54,7 @@ The dataset contains 10,000 customer records with 18 features including demograp
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/rab306/customer-churn-prediction-pipeline.git)
 cd customer-churn-prediction
 ```
 
